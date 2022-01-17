@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="1.70666in" height="1.70666in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 680 680">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:22.123}
+    .fil2 {fill:none}
+    .fil3 {fill:#373435}
+    .fil1 {fill:#CAE6D2}
+    .fil0 {fill:#257556}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M340 0c187,0 340,152 340,340 0,187 -153,340 -340,340 -188,0 -340,-153 -340,-340 0,-188 152,-340 340,-340z"></path>
+   </clipPath>
+     <clipPath id="id1">
+      <path d="M547 128l0 0c41,30 49,88 19,129l-206 276c-30,40 -88,49 -129,19l0 0c-41,-31 -49,-89 -19,-129l206 -276c31,-41 89,-49 129,-19z"></path>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M340 0c187,0 340,152 340,340 0,187 -153,340 -340,340 -188,0 -340,-153 -340,-340 0,-188 152,-340 340,-340z"></path>
+     </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"></metadata>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_425184248">
+     <path class="fil0" d="M547 128l0 0c41,30 49,88 19,129l-206 276c-30,40 -88,49 -129,19l0 0c-41,-31 -49,-89 -19,-129l206 -276c31,-41 89,-49 129,-19z"></path>
+    </g>
+    <g style="clip-path:url(#id1)">
+     <g>
+      <rect class="fil1" transform="matrix(0.635936 0.474705 -0.454067 0.608288 297.034 263.548)" width="305" height="916"></rect>
+     </g>
+    </g>
+    <g style="clip-path:url(#id2)">
+     <path class="fil2 str0" d="M547 128l0 0c41,30 49,88 19,129l-206 276c-30,40 -88,49 -129,19l0 0c-41,-31 -49,-89 -19,-129l206 -276c31,-41 89,-49 129,-19z"></path>
+     <path class="fil3" d="M516 562c-73,20 -225,-57 -321,-140 -96,-84 -129,-193 -70,-241 49,-39 158,-27 241,36l4 4 -12 17c0,0 -1,-1 -2,-1 -99,-43 -190,-35 -208,20 -37,115 269,284 368,305z"></path>
+    </g>
+   </g>
+  </g>
+  <path class="fil2" d="M340 0c187,0 340,152 340,340 0,187 -153,340 -340,340 -188,0 -340,-153 -340,-340 0,-188 152,-340 340,-340z"></path>
+ </g>
+</svg>
